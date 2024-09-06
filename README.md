@@ -14,12 +14,13 @@
 - ⚡ Fun fact: ...
 -->
 
-I work as a Principal Cloud Solution Architect at Microsoft building cool solutions for our customers. I'm passionate about SharePoint, the Power Platform and the Microsoft Graph. More recently my focus has been on building App Templates and Power Platform based solutions for Microsoft Teams.
+I work as a Principal Cloud Solution Architect at Microsoft building cool solutions for our customers. I'm passionate about SharePoint, the Power Platform, Microsoft Graph and of course Copilot ✈️🧑‍✈️.
 
 ## 💻 My work
 Some of my work that has been published outside of Microsoft can be found below.
 * Request-a-team (Teams App Template): https://github.com/OfficeDev/microsoft-teams-apps-requestateam
 * Provision Assist (Provisioning solution): https://github.com/pnp/provision-assist-m365
+* Prompt Pulse (Copilot Prompt Scheduling): https://github.com/pnp/prompt-pulse
 
 ## 📧 How to reach me
 * Twitter - https://twitter.com/sharepointalex
