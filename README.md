@@ -14,7 +14,7 @@
 - ⚡ Fun fact: ...
 -->
 
-I work as a Principal Cloud Solution Architect at Microsoft building cool solutions for our customers. I'm passionate about SharePoint, the Power Platform, Microsoft Graph and of course Copilot ✈️🧑‍✈️.
+I work as a Senior Program Manager focussed on Copilot Extensibility at Microsoft building cool solutions for our customers. I'm passionate about Microsoft Copilot, AI, the Power Platform, Microsoft Graph and SharePoint.
 
 ## 💻 My work
 Some of my work that has been published outside of Microsoft can be found below.
