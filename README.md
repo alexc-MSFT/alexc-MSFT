@@ -14,7 +14,7 @@
 - ⚡ Fun fact: ...
 -->
 
-I work as a Senior Program Manager focussed on Copilot Extensibility at Microsoft building cool solutions for our customers. I'm passionate about Microsoft Copilot, AI, the Power Platform, Microsoft Graph and SharePoint.
+I work as a Senior Program Manager focussed on Copilot Extensibility (Agents) at Microsoft building cool solutions for our customers. I'm passionate about Microsoft Copilot, AI, the Power Platform, Microsoft Graph and SharePoint.
 
 ## 💻 My work
 Some of my work that has been published outside of Microsoft can be found below.
