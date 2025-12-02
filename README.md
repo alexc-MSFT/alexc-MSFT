@@ -21,6 +21,7 @@ Some of my work that has been published outside of Microsoft can be found below.
 * Request-a-team (Teams App Template): https://github.com/OfficeDev/microsoft-teams-apps-requestateam
 * Provision Assist (Provisioning solution): https://github.com/pnp/provision-assist-m365
 * Prompt Pulse (Copilot Prompt Scheduling): https://github.com/pnp/prompt-pulse
+* Prompt Master (Copilot Prompt Gamification): https://github.com/pnp/prompt-master
 
 ## 📧 How to reach me
 * Twitter - https://twitter.com/sharepointalex
